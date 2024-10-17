@@ -1,6 +1,6 @@
-# Rock Paper Scissors Game
+# Pierre Papier Ciseaux a Rock Paper Scissors Game
 
-A simple "Rock Paper Scissors" game built with HTML, CSS, and JavaScript. The player competes against the computer by selecting between Rock, Paper, or Scissors. The game keeps track of scores, and the first to reach 5 points wins the game.
+A simple "Rock Paper Scissors" game built with HTML, CSS, and JavaScript. This game was created as part of my intro to web development class. The player competes against the computer by selecting between Rock, Paper, or Scissors. The game keeps track of scores, and the first to reach 5 points wins the game.
 
 ## Table of Contents
 
