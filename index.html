@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Examen final</title>
+  </head>
+  <body>
+    <div class="container" id="jeu">
+      <h2>Jeu Pierre|Papier|Ciseaux</h2>
+      <h2>Choisissez votre coup :</h2>
+
+      <button class="choixBTN" data-choice="PIERRE">
+        <img src="/images/rock.png" height="50" alt="" />
+      </button>
+      <button class="choixBTN" data-choice="PAPIER">
+        <img src="/images/paper.png" height="50" alt="" />
+      </button>
+      <button class="choixBTN" data-choice="CISEAUX">
+        <img src="/images/scissors.png" height="50" alt="" />
+      </button>
+
+      <h3 id="resultat"></h3>
+      <h3 id="scoreJoueur">Votre score :</h3>
+      <h3 id="scoreOrdinateur">Score de l'ordinateur :</h3>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
